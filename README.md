@@ -31,6 +31,7 @@ Npm: https://www.npmjs.com/
 ## 📦 Status da aplicação
 
 🚧  Finalizado 🚧
+
 Vídeo demo: https://youtu.be/7PxHvZ_q9uI
 
 Link para acesso: https://todolist-silk.vercel.app
