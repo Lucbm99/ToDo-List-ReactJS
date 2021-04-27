@@ -23,6 +23,7 @@ body {
 }
 .add-task {
   cursor: pointer;
+  width: 15%
 }
 .items {
   display: flex;
@@ -42,4 +43,16 @@ button {
 del {
   color: #FEFBFB;
   font-weight: bold;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .input-task {
+    margin-top: 2.5rem;
+  }
+  .input-task input {
+    width: 60%;
+  }
+  .add-task {
+    width: 30%;
+  }
 }
