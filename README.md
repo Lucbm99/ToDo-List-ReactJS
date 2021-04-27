@@ -1,73 +1,54 @@
-# Getting Started with Create React App
+# ToDo List
+Lista de tarefas feita para fins de estudo da biblioteca React.js.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 🚀 Instruções 
+Para que você veja o código do projeto funcionando em sua máquina, serão disponibilizadas algumas instruções no tópico 🔧 Como rodar o projeto? 
 
-In the project directory, you can run:
+### 📋 Pré-requisitos
+Para isso, você irá precisar basicamente ter um editor de código em sua máquina (Visual Studio Code, Sublime Text, etc), um navegador para acesso (Google Chrome, Opera, Mozilla Firefox) e, para versionar o código, ter o Git instalado. Pode ser utilizado o prompt de comando de seu computador, da mesma forma. Além deles, será necessário ter o Node.js instalado e o gerenciador de pacotes NPM também.
 
-### `npm start`
+Links úteis: 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+VS Code: https://code.visualstudio.com/
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Git: https://git-scm.com/
 
-### `npm test`
+Sublime Text: https://www.sublimetext.com/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Npm: https://www.npmjs.com/
 
-### `npm run build`
+### 🔧 Como rodar o projeto? 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 1 - Primeiro faça o clone desse repositório com o comando: git clone https://github.com/Lucbm99/ToDo-List-ReactJS.git, com o prompt de comando ou o Git Bash, em qualquer pasta de seu computador.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 2 - Após isso, deverá ser digitado no terminal na pasta de seu projeto, o comando npm install.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 3 - Feita a instalação do npm, é necessário digitar o comando npm start, para abrir a aplicação, que estará disponível em http://localhost:3000 em seu computador.
 
-### `npm run eject`
+![image](https://user-images.githubusercontent.com/45500959/116172116-82aa0e00-a6e0-11eb-99f3-3a91395542bc.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 📦 Status da aplicação
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+🚧  Finalizado 🚧
+Vídeo demo: https://youtu.be/7PxHvZ_q9uI
+Link para acesso: https://todolist-silk.vercel.app
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🛠️ Feito com
+* [ReactJS](https://reactjs.org/docs/getting-started.html)
+* [Git](https://git-scm.com/downloads)
+* [NPM](https://www.npmjs.com/)
 
-## Learn More
+## ✒️ Licença 
+Consulte o arquivo LICENSE.md, para maiores detalhes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## ✒️ Autores
+Lista de tarefas feita por mim - [Lucbm99](https://github.com/Lucbm99)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
+⌨️ com ❤️ por [Lucas Baradel](https://github.com/Lucbm99) 😊
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Calculadora-IMC-React
-# Calculadora-ReactJS
-# ToDo-List-ReactJS
